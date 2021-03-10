@@ -1,6 +1,6 @@
 # lojavirtual
 
-A new Flutter project.
+Projeto em Flutter do curso de Criação de Apps Android e iOS com Flutter.
 
 ## Getting Started
 
